@@ -1,0 +1,5 @@
+
+http://www.vbforums.com/showthread.php?681065-RESOLVED-DotNetZip-Library
+http://dotnetzip.codeplex.com/wikipage?title=CS-Examples&referringTitle=Examples
+http://www.vbforums.com/showthread.php?681081-RESOLVED-Extract-Progress-DotNetZip-Library&p=4181207#post4181207
+http://social.msdn.microsoft.com/Forums/vstudio/en-US/60547da4-4816-40fa-b16c-59123d05485e/calling-jar-file-in-c

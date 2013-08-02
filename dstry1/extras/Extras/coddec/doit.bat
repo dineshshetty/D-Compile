@@ -1,0 +1,1 @@
+java.exe -cp D:\Mobile_research\ds_decompiler_WIP\dstry1\dstry1\extras\Extras\coddec\coddec\bin net.rim.tools.compiler.Compiler %1 > OUT 2>&1
